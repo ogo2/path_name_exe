@@ -1,14 +1,14 @@
 # Path Name
 
-**Проект по сохранению открытых папок на ПК и автоматическому открытию их при включении системы.** 
+**A project to save open folders on the PC and automatically open them when the system is turned on.** 
 
-Данный скрипт сохраняет пути с интервалом 30 секунд, 30 минут, 2 часа, 3 часа, 4 часа, 5 часов. На случай, если ваш ПК чудом выключится!
+This script saves paths at intervals of 30 seconds, 30 minutes, 2 hours, 3 hours, 4 hours, 5 hours. 
 
-## Установка
+## Installation
 
-1. Добавьте ярлыки файлов `main.exe` и `open.exe` в папку автозагрузки Windows.
-2. Перезагрузите ПК или запустите файл `main.exe` один раз.
+1. Add the `main.exe` and `open.exe` file shortcuts to the Windows autoloader folder.
+2. Restart the PC or run the `main.exe` file once.
 
-## Использование
+## Utilization
 
-При включении ПК автоматически открываются GUI интерфейс с выбором интервала времени.
+When the PC is turned on, a GUI interface with time interval selection is automatically opened.
