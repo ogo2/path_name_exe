@@ -1,2 +1,4 @@
 Список открытых папок (полный путь):
-
+C:\Users\adm\Desktop\python_program\path_name\output
+C:\Users\adm\Desktop\python_program\Новая папка\path_name\output
+C:\Users\adm\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
